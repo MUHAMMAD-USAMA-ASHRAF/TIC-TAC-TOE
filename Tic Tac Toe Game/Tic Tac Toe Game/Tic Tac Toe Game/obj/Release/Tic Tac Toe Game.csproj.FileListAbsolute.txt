@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\bin\Release\Tic Tac Toe Game.exe
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\bin\Release\Tic Tac Toe Game.pdb
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic_Tac_Toe_Game.Form1.resources
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic_Tac_Toe_Game.Game.resources
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.exe
+C:\Users\user\Desktop\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.pdb
